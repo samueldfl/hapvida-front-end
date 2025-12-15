@@ -1,0 +1,9 @@
+services:
+  web:
+    container_name: vite-react-nginx
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    restart: unless-stopped
