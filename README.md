@@ -229,16 +229,6 @@ pnpm test:coverage
 - **Animações**: Fade-in, slide-up, transições suaves
 - **Responsividade**: Mobile-first, breakpoints em 640px, 768px, 1024px
 
-## 📈 Melhorias Futuras
-
-- [ ] Adicionar mais provedores de clima para fallback
-- [ ] Implementar PWA com service workers
-- [ ] Adicionar modo offline com cache
-- [ ] Implementar E2E tests com Playwright
-- [ ] Adicionar i18n para múltiplos idiomas
-- [ ] Adicionar mapas interativos com Leaflet
-- [ ] Dark mode toggle manual
-
 ## 📄 Licença
 
 Este projeto foi desenvolvido como teste técnico e está disponível para avaliação.
