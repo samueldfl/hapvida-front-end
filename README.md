@@ -126,6 +126,14 @@ docker build -t cep-clima-app .
 docker run -p 3000:3000 cep-clima-app
 ```
 
+ou
+
+```bash
+
+docker compose up -d
+
+```
+
 A aplicação estará disponível em [http://localhost:3000](http://localhost:3000)
 
 ### Comandos Docker Úteis
